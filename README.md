@@ -1,4 +1,4 @@
-# SkytilsMod
+# Mordo Mod
 
 ***
 <p align="center">
